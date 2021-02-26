@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --theme=dark --debug --enable_nbextensions=True FundIndicatorCalc_v2.0.0.ipynb
