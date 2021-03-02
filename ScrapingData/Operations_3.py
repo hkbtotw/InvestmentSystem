@@ -15,7 +15,7 @@ import re
 import os
 
 
-fundList=['TMBCOF','ONE-UGG-RA','K-USA-A(A)','KFGBRAND-A','WE-CHIG','WE-CYBER']
+fundList=['TMBCOF','ONE-UGG-RA','K-USA-A(A)','KFGBRAND-A','WE-CHIG','WE-CYBER','K-CHINA']
 BenchmarkList=['CSI300','SP500','USDIndex']
 BenchmarkScrapeList=['MSCIW']
 BenchmarkScrapedCode=['msci-world']
